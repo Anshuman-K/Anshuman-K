@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mr.anshumankashyap@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rPCMtdejYlKzFVCPeoLc2htQ5va25M67/view](https://drive.google.com/file/d/1rPCMtdejYlKzFVCPeoLc2htQ5va25M67/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rPCMtdejYlKzFVCPeoLc2htQ5va25M67/view)
 
 - ⚡ Fun fact **Apart from my intriguing interest with Technology, I am an avid sightseer, especially to the places less famous yet fascinating.**
 
