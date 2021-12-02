@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Spring-Boot**
 
-- 👨‍💻 All of my projects are available at [https://anshuman-kashyap.netlify.app/](https://anshuman-kashyap.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anshuman-kashyap.netlify.app/)
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Anshuman-Kashyap-3](https://www.quora.com/profile/Anshuman-Kashyap-3)
+- 📝 I regularly write articles on [Quora](https://www.quora.com/profile/Anshuman-Kashyap-3)
 
 - 💬 Ask me about **Java, Back-End Technologies, System Design.**
 
