@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Back-End Technologies, System Design.**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rPCMtdejYlKzFVCPeoLc2htQ5va25M67/view)
+- 📄 Know about my me [Resume](https://drive.google.com/file/d/1irHaw9tHTB0sVpf_pgK6mShmdP7u1hIY/view?usp=sharing)
 
 - ⚡ Fun fact **Apart from my intriguing interest with Technology, I am an avid sightseer, especially to the places less famous yet fascinating.**
 
